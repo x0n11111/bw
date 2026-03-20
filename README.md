@@ -15,7 +15,7 @@ Perfect for:
 * Batch convert all images in a folder
 * Supports: `.jpg`, `.jpeg`, `.png`, `.webp`
 * Outputs **true monochrome (1-bit)** images
-* Keeps original filenames
+* Keeps original filenames.
 * Skips invalid/corrupted files safely
 
 ---
