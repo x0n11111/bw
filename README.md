@@ -4,9 +4,9 @@ A simple Python script to convert a folder of wallpapers into **pure black & whi
 
 Perfect for:
 
-* Minimalist setups
-* Terminal / tiling WM aesthetics
-* Reducing visual noise in wallpapers
+* Minimalist setups.
+* Terminal / tiling WM aesthetics.
+* Reducing visual noise in wallpapers.
 
 ---
 
